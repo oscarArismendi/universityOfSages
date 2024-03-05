@@ -1,11 +1,18 @@
 {
     "periods": [
-        {
-          "id": 1,
+      {
+        "id": 1,
+        "code": "P23-02",
+        "year": 2023,
+        "semester": 2
+      },  
+      {
+          "id": 2,
           "code": "P24-01",
           "year": 2024,
           "semester": 1
-        }
+      }
+
      ],
      "programs": [
         {
