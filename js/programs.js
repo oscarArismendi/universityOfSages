@@ -1,6 +1,7 @@
 
 
 async function showPrograms(){
+    initialState();// every innerHTML become empty
     const programsHTML = document.getElementById("programs");
     programsHTML.innerHTML = "";// assure that is empty
     programsHTML.innerHTML += "<div class='h2 text-center'>Programs</div>"
@@ -9,9 +10,11 @@ async function showPrograms(){
         if((program["id"]-1)%2 === 0){//the rows that we create only have 2 spaces
             const div = document.createElement("div");
             div.classList.add("row");
+            div.classList.add("mb-4");
             programsHTML.appendChild(div);
         }
-        const lastRowHTML = programsHTML.querySelector(":last-child");
+        let lastRowHTML = programsHTML.querySelectorAll(".row");
+        lastRowHTML = lastRowHTML[lastRowHTML.length-1];
         const card = createCard(program);
         lastRowHTML.innerHTML += card;
     }

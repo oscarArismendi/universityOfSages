@@ -34,7 +34,7 @@ function createCard(dataDic){//pass a dictionary to a card
             <ul class="list-group">`;
         }
         else{
-            cardHTMl += `<li class="list-group-item">${key}: ${dataDic[key]}</li>`;
+            cardHTMl += `<li class="list-group-item">${key.replace("_"," ")}: ${dataDic[key]}</li>`;
         }
     }
 
@@ -47,8 +47,10 @@ function createCard(dataDic){//pass a dictionary to a card
     return cardHTMl;
 }
 
-function hiddeExcept(id){
+function initialState(){
     const container = document.getElementById("main-container");
     const divs = container.getElementsByTagName("div");
-    divs.forEach(element =>console.log(element));
+    for(let i = 0; i < divs.length; i++){
+        divs[i].innerHTML = "";
+    }
 }
