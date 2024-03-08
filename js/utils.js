@@ -47,10 +47,17 @@ function createCard(dataDic){//pass a dictionary to a card
     return cardHTMl;
 }
 
+function hiddeSecondaryMenus(){
+    const teacherMenu = document.getElementById("teacher-menu");
+    teacherMenu.style.display = "none";
+}
+
 function initialState(){
+    hiddeSecondaryMenus();//make sure to hidde the secundary menus
     const container = document.getElementById("main-container");
     const divs = container.getElementsByTagName("div");
     for(let i = 0; i < divs.length; i++){
         divs[i].innerHTML = "";
     }
 }
+

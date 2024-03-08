@@ -25,3 +25,17 @@
 .offcanvas{
     --bs-offcanvas-height:auto;
 }
+
+#main-nav{
+    min-height: 90%;
+}
+
+#teacher-menu{
+    display: none;
+}
+
+/* #nav-teachers:active{
+    #teacher-menu{
+        display: block;
+    }
+} */
