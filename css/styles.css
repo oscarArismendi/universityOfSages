@@ -30,7 +30,7 @@
     min-height: 90%;
 }
 
-#teacher-menu{
+#teacher-menu, #student-menu{
     display: none;
 }
 

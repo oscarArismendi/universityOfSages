@@ -1,189 +1,219 @@
 {
-    "periods": [
-      {
-        "id": 1,
-        "code": "P23-02",
-        "year": 2023,
-        "semester": 2
-      },  
-      {
-          "id": 2,
-          "code": "P24-01",
-          "year": 2024,
-          "semester": 1
-      }
-
-     ],
-     "programs": [
+  "periods": [
+    {
+      "id": "1",
+      "code": "P23-02",
+      "year": 2023,
+      "semester": 2
+    },
+    {
+      "id": "2",
+      "code": "P24-01",
+      "year": 2024,
+      "semester": 1
+    }
+  ],
+  "programs": [
+    {
+      "id": "1",
+      "name": "Software Engineer",
+      "degree": "undergraduate"
+    },
+    {
+      "id": "2",
+      "name": "Mecathronics Engineer",
+      "degree": "undergraduate"
+    }
+  ],
+  "fees": [
+    {
+      "id": "1",
+      "credit_cost": 1000,
+      "period_id": 1,
+      "program_id": 1
+    },
+    {
+      "id": "2",
+      "credit_cost": 1100,
+      "period_id": 1,
+      "program_id": 2
+    }
+  ],
+  "departments": [
+    {
+      "id": "1",
+      "name": "Deparment of Software"
+    },
+    {
+      "id": "2",
+      "name": "Deparment of Math"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "1",
+      "document_type": "CC",
+      "document_number": "13788555",
+      "first_name": "Juan",
+      "last_name": "Pérez",
+      "deparment_id": 1
+    },
+    {
+      "id": "2",
+      "document_type": "CC",
+      "document_number": "137880000",
+      "first_name": "María",
+      "last_name": "Gómez",
+      "deparment_id": 2
+    },
+    {
+      "id": "3",
+      "document_type": "cc",
+      "document_number": "4321",
+      "first_name": "os",
+      "last_name": "ar",
+      "deparment_id": "1"
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "first_name": "Carlos",
+      "last_name": "Rodríguez",
+      "document_type": "CC",
+      "document_number": "123456789",
+      "residence_city": "Bogotá",
+      "direction": "Calle 123",
+      "phone": "1234567890",
+      "birthdate": "1990-01-01",
+      "gender": "Male",
+      "program_id": 1
+    },
+    {
+      "id": "2",
+      "first_name": "Ana",
+      "last_name": "Martínez",
+      "document_type": "Foreigner ID",
+      "document_number": "987654321",
+      "residence_city": "Medellín",
+      "direction": "Carrera 456",
+      "phone": "0987654321",
+      "birthdate": "1992-05-15",
+      "gender": "Female",
+      "program_id": 2
+    },
+    {
+      "id": "3",
+      "first_name": "ger",
+      "last_name": "seb",
+      "document_type": "cc",
+      "document_number": "4321",
+      "resident_city": "bucara",
+      "direction": "centro",
+      "phone": "318",
+      "birthdate": "3/9/2024",
+      "gender": "male",
+      "program_id": "1"
+    },
+    {
+      "id": 4,
+      "first_name": "os",
+      "last_name": "ar",
+      "document_type": "cc",
+      "document_number": "123",
+      "resident_city": "bucara",
+      "direction": "centro",
+      "phone": "318",
+      "birthdate": "02-20-2024",
+      "gender": "male",
+      "program_id": "1"
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "name": "Advanced programming",
+      "code": "AVA-PRO",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "2",
+      "name": "Linear Algebra",
+      "code": "LI-ALG",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    }
+  ],
+  "classrooms": [
+    {
+      "id": "1",
+      "students_capacity": 30,
+      "building": "building A",
+      "floor": 2,
+      "identification_number": "S001"
+    }
+  ],
+  "subjects": [
+    {
+      "id": "1",
+      "course_id": 1,
+      "code": "AVA-PRO-PER-2024",
+      "credits": 4,
+      "teacher_id": 1,
+      "space_available": 20,
+      "program_id": 1,
+      "class_schedule": [
         {
-          "id": 1,
-          "name": "Software Engineer",
-          "degree": "undergraduate"
+          "day": "Monday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 1
         },
         {
-            "id": 2,
-            "name": "Mecathronics Engineer",
-            "degree": "undergraduate"
+          "day": "TUESDAY",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 1
         }
-      ],
-      "fees": [
+      ]
+    },
+    {
+      "id": "2",
+      "course_id": 2,
+      "code": "LI-ALG-PER-2024",
+      "credits": 3,
+      "teacher_id": 2,
+      "space_available": 15,
+      "program_id": 2,
+      "class_schedule": [
         {
-          "id": 1,
-          "credit_cost": 1000,
-          "period_id": 1,
-          "program_id": 1
+          "day": "Monday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 1
         },
         {
-            "id": 2,
-            "credit_cost": 1100,
-            "period_id": 1,
-            "program_id": 2
-          }
-      ],
-    "departments": [
-      {
-        "id": 1,
-        "name": "Deparment of Software"
-      },
-      {
-        "id": 2,
-        "name": "Deparment of Math"
-      }
-    ],
-    "teachers": [
-      {
-        "id": 1,
-        "document_type": "CC",
-        "document_number":"13788555",
-        "first_name": "Juan",
-        "last_name": "Pérez",
-        "deparment_id": 1
-      },
-      {
-        "id": 2,
-        "document_type": "CC",
-        "document_number":"137880000",
-        "first_name": "María",
-        "last_name": "Gómez",
-        "deparment_id": 2
-      }
-    ],
-    "students": [
-      {
-        "id": 1,
-        "first_name": "Carlos",
-        "last_name": "Rodríguez",
-        "document_type": "CC",
-        "document_number": "123456789",
-        "residence_city": "Bogotá",
-        "direction": "Calle 123",
-        "phone": "1234567890",
-        "birthdate": "1990-01-01",
-        "sex": "Male",
-        "program_id":1
-      },
-      {
-        "id": 2,
-        "first_name": "Ana",
-        "last_name": "Martínez",
-        "document_type": "Foreigner ID",
-        "document_number": "987654321",
-        "residence_city": "Medellín",
-        "direction": "Carrera 456",
-        "phone": "0987654321",
-        "birthdate": "1992-05-15",
-        "sex": "Female",
-        "program_id":2
-      }
-    ],    
-    "courses": [
-      {
-        "id": 1,
-        "name": "Advanced programming",
-        "code": "AVA-PRO",
-        "lecture_guide": "URL_lecture_guide.pdf"
-      },
-      {
-        "id": 2,
-        "name": "Linear Algebra",
-        "code": "LI-ALG",
-        "lecture_guide": "URL_lecture_guide.pdf"
-      }
-    ],    
-    "classrooms": [
-      {
-        "id": 1,
-        "students_capacity": 30,
-        "building": "building A",
-        "floor": 2,
-        "identification_number": "S001"
-      }
-    ],    
-    "subjects": [
-      {
-        "id": 1,
-        "course_id": 1,
-        "code": "AVA-PRO-PER-2024",
-        "credits": 4,
-        "teacher_id": 1,
-        "space_available": 20,
-        "program_id": 1,
-        "class_schedule": [
-            {
-              "day": "Monday",
-              "start_date": "08:00",
-              "end_date": "10:00",
-              "classroom_id": 1
-            },
-            {
-                "day": "TUESDAY",
-                "start_date": "08:00",
-                "end_date": "10:00",
-                "classroom_id": 1
-            }
-          ]
-      },
-      {
-        "id": 2,
-        "course_id": 2,
-        "code": "LI-ALG-PER-2024",
-        "credits": 3,
-        "teacher_id": 2,
-        "space_available": 15,
-        "program_id": 2,
-        "class_schedule": [
-            {
-              "day": "Monday",
-              "start_date": "10:00",
-              "end_date": "12:00",
-              "classroom_id": 1
-            },
-            {
-                "day": "Thursday",
-                "start_date": "10:00",
-                "end_date": "12:00",
-                "classroom_id": 1
-            }
-          ]
-      }
-    ],
-    "tuitions": [
-      {
-        "id": 1,
-        "student_id": 1,
-        "subject_id": 1,
-        "period_id": 1,
-        "price": 4000 
-        
-      },
-      {
-        "id": 1,
-        "student_id": 1,
-        "subject_id": 2,
-        "period_id": 1,
-        "price": 3300 
-        
-      }
-    ]
-  }
-  
+          "day": "Thursday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 1
+        }
+      ]
+    }
+  ],
+  "tuitions": [
+    {
+      "id": "1",
+      "student_id": 1,
+      "subject_id": 1,
+      "period_id": 1,
+      "price": 4000
+    },
+    {
+      "id": "2",
+      "student_id": 1,
+      "subject_id": 2,
+      "period_id": 1,
+      "price": 3300
+    }
+  ]
+}
