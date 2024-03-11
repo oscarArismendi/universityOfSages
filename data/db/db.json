@@ -449,6 +449,14 @@
       "first_name": "Simón",
       "last_name": "Sánchez",
       "deparment_id": 5
+    },
+    {
+      "id": 31,
+      "document_type": "CC",
+      "document_number": "1097843563",
+      "first_name": "Luis",
+      "last_name": "Perez",
+      "deparment_id": "3"
     }
   ],
   "students": [
@@ -1101,6 +1109,32 @@
       "birthdate": "1987-01-15",
       "gender": "Male",
       "program_id": 8
+    },
+    {
+      "id": 51,
+      "first_name": "Juan",
+      "last_name": "Martinez",
+      "document_type": "CC",
+      "document_number": "54321",
+      "resident_city": "Bucaramanga",
+      "direction": "Car. 20 # 40",
+      "phone": "3187392847",
+      "birthdate": "02-02-2002",
+      "gender": "male",
+      "program_id": "1"
+    },
+    {
+      "id": 52,
+      "first_name": "German",
+      "last_name": "Macias",
+      "document_type": "CC",
+      "document_number": "1098784532",
+      "resident_city": "Bucaramanga",
+      "direction": "Centro",
+      "phone": "3187528734",
+      "birthdate": "02-02-2002",
+      "gender": "male",
+      "program_id": "1"
     }
   ],
   "courses": [
@@ -2807,6 +2841,23 @@
           "classroom_id": 29
         }
       ]
+    },
+    {
+      "id": 61,
+      "course_id": "30",
+      "code": "AL-PER-2024",
+      "credits": "5",
+      "teacher_id": "4",
+      "space_available": "20",
+      "program_id": "1",
+      "class_schedule": [
+        {
+          "day": "Wednesday",
+          "start_hour": "13:00",
+          "end_hour": "14:00",
+          "classroom_id": "13"
+        }
+      ]
     }
   ],
   "tuitions": [
@@ -3159,6 +3210,15 @@
       "subject_id": 20,
       "period_id": 2,
       "price": 1300
+    },
+    {
+      "id": "51",
+      "student_id": "3",
+      "subject_id": [
+        "1"
+      ],
+      "period_id": "1",
+      "price": "4000"
     }
   ]
 }

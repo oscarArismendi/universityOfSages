@@ -31,7 +31,7 @@ async function newStudentForm(){
     studentsHTML.innerHTML = "";// assure that is empty
     studentsHTML.innerHTML += "<div class='h2 text-center'>New student</div>"
     const students = await load("students");
-    studentsHTML.innerHTML += createPersonForm(students[0],"Student");
+    studentsHTML.innerHTML += await createPersonForm(students[0],"Student");
     
 }
 
