@@ -16,7 +16,7 @@ document.getElementById('nav-courses').addEventListener('click', showCourses);
 document.getElementById('nav-classrooms').addEventListener('click', showClassrooms);
 
 document.getElementById("nav-subjects").addEventListener("click",subjectOptions);
-// document.getElementById("new-subjects").addEventListener("click",newSubjectForm);
+document.getElementById("new-subjects").addEventListener("click",newSubjectForm);
 document.getElementById("show-subjects").addEventListener("click",showSubjects);
 
 // document.getElementById("nav-tuitions").addEventListener("click",tuitionOptions);

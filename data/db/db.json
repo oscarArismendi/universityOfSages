@@ -198,6 +198,23 @@
           "classroom_id": 1
         }
       ]
+    },
+    {
+      "id": 3,
+      "course_id": "1",
+      "code": "1",
+      "credits": "4",
+      "teacher_id": "1",
+      "space_available": "20",
+      "program_id": "2",
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "15:00",
+          "end_hour": "16:00",
+          "classroom_id": "1"
+        }
+      ]
     }
   ],
   "tuitions": [
