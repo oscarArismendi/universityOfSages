@@ -25,16 +25,14 @@ async function showStudents(){
     }
 }
 
-async function newStudentForm(e){
-    e.preventDefault();
-    
+async function newStudentForm(){
     initialState();// every innerHTML become empty
     const studentsHTML = document.getElementById("students");
     studentsHTML.innerHTML = "";// assure that is empty
     studentsHTML.innerHTML += "<div class='h2 text-center'>New student</div>"
     const students = await load("students");
     studentsHTML.innerHTML += createPersonForm(students[0],"Student");
-    // await preventReloadForm();
+    
 }
 
 async function addStudent(){

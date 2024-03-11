@@ -1,7 +1,9 @@
 #logo{
     text-align: center;
 }
-
+ul,li{
+    list-style-type: none;
+}
 /*underline effect*/
 .un {
     display: inline-block;
@@ -30,7 +32,7 @@
     min-height: 90%;
 }
 
-#teacher-menu, #student-menu{
+#teacher-menu, #student-menu, #subject-menu{
     display: none;
 }
 

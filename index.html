@@ -44,7 +44,7 @@
                                 <span id="nav-teachers" class="un p-0" data-bs-toggle="offcanvasTeachers" data-bs-target="#offcanvasTeachers" aria-controls="offcanvasTeachers" aria-label="Toggle teacher data">teachers</span>
                             </li>
                             <li class="nav-item h2">
-                                <span id="nav-students" class="un p-0"  data-bs-toggle="offcanvasTeachers" dadata-bs-target="#offcanvasTeachers" aria-controls="offcanvasTeachers" aria-label="Toggle teacher data">Students</span>
+                                <span id="nav-students" class="un p-0"  data-bs-toggle="offcanvasStudents" data-bs-target="#offcanvasStudents" aria-controls="offcanvasStudents" aria-label="Toggle Student data">Students</span>
                             </li>
                             <li class="nav-item h2">
                                 <span id="nav-courses" class="un" data-bs-dismiss="offcanvas">Courses</span>
@@ -53,7 +53,7 @@
                                 <span id="nav-classrooms" class="un" data-bs-dismiss="offcanvas">Classrooms</span>
                             </li>
                             <li class="nav-item h2">
-                                <span id="nav-subjects" class="un" data-bs-dismiss="offcanvas">Subjects</span>
+                                <span id="nav-subjects" class="un p-0" data-bs-toggle="offcanvasSubjects" data-bs-target="#offcanvasSubjects" aria-controls="offcanvasSubjects" aria-label="Toggle Subject data">Subjects</span>
                             </li>
                             <li class="nav-item h2">
                                 <span id="nav-tuitions" class="un" data-bs-dismiss="offcanvas">Tuitions</span>
@@ -99,6 +99,26 @@
                                 </p>
                             </li>
                         </ul>
+                        <ul id="subject-menu" class="navbar-nav justify-content-around ms-5">
+                            <li class="nav-item h2">
+                                <span id="new-subjects" class="un" data-bs-dismiss="offcanvas">New Subjects</span>
+                                <p class="h5 mt-1">Let's add a new subjects
+                                    <br>
+                                    To give everyone an oportunity
+                                    <br>
+                                    Of exploring more knowledge.
+                                </p>
+                            </li>
+                            <li class="nav-item h2">
+                                <span id="show-subjects" class="un" data-bs-dismiss="offcanvas">Show Subjects</span>
+                                <p class="h5 mt-1">See the subjects that 
+                                    <br>
+                                    Can be choosen and make sure
+                                    <br>
+                                    To learn everything that you can</p>
+                                </p>
+                            </li>
+                        </ul>
 
                     </div>
                     
@@ -117,6 +137,7 @@
         <div id="students" class="mt-2"></div>
         <div id="courses" class="mt-2"></div>
         <div id="classrooms" class="mt-2"></div>
+        <div id="subjects" class="mt-2"></div>
 
     </main>
 
@@ -130,6 +151,7 @@
     <script src="js/students.js"></script>
     <script src="js/courses.js"></script>
     <script src="js/classrooms.js"></script>
+    <script src="js/subjects.js"></script>
     <script src="js/app.js"></script>
 </body>
 </html>

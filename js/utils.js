@@ -1,9 +1,4 @@
 
-function preventReloadForm(){
-    document.querySelector("form").addEventListener("submit",function(event){
-        event.preventDefault();
-    })
-};
 
 
 // json functions
@@ -63,32 +58,41 @@ function createPersonForm(dataDic,name){
     return formHTMl;
 }
 
-function createCard(dataDic){//pass a dictionary to a card
-    let cardHTMl = `
+function createCard(dataDic) {
+    let cardHTML = `
     <div class="col">
         <div class="card">
             <div class="card-body">
-                
     `;
+    if (dataDic["id"] !== undefined) {
+        cardHTML += `<h5 class="card-title">ID: ${dataDic["id"]}</h5>`;
+    } else {
+        cardHTML += `<h5 class="card-title">O.o</h5>`;
+    }
+    cardHTML += `<ul class="list-group">`;
 
-    for(let key in dataDic){
-        if(key === "id"){
-            cardHTMl += `<h5 class="card-title">ID: ${dataDic["id"]}</h5>
-            <ul class="list-group">`;
-        }
-        else{
-            cardHTMl += `<li class="list-group-item">${key.replaceAll("_"," ")}: ${dataDic[key]}</li>`;
+    for (let key in dataDic) {
+        if (key === "class_schedule") {
+            cardHTML += `<li class="list-group-item"><span>${key.replaceAll("_", " ")}:</span><ul class="list-group">`;
+
+            for (let schedule of dataDic[key]) {
+                cardHTML += `<li class="mt-4">${createCard(schedule)}</li>`;
+            }
+
+            cardHTML += `</ul></li>`;
+        } else {
+            cardHTML += `<li class="list-group-item">${key.replaceAll("_", " ")}: ${dataDic[key]}</li>`;
         }
     }
 
-    cardHTMl += `
-                </ul>
-            </div>
-        </div>
-    </div>
-    `;
-    return cardHTMl;
+    cardHTML += `</ul></div></div></div>`;
+    return cardHTML;
 }
+
+
+
+
+
 
 function hiddeSecondaryMenus(){
     const teacherMenu = document.getElementById("teacher-menu");

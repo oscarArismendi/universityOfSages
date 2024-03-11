@@ -15,7 +15,11 @@ document.getElementById("show-students").addEventListener("click",showStudents);
 document.getElementById('nav-courses').addEventListener('click', showCourses);
 document.getElementById('nav-classrooms').addEventListener('click', showClassrooms);
 
-document.getElementById("nav-tuitions").addEventListener("click",tuitionOptions);
+document.getElementById("nav-subjects").addEventListener("click",subjectOptions);
+// document.getElementById("new-subjects").addEventListener("click",newSubjectForm);
+document.getElementById("show-subjects").addEventListener("click",showSubjects);
+
+// document.getElementById("nav-tuitions").addEventListener("click",tuitionOptions);
 // document.getElementById("new-tuitions").addEventListener("click",newTuitionForm);
 // document.getElementById("show-tuitions").addEventListener("click",showTuitions);
 
