@@ -28,42 +28,42 @@
       "id": "3",
       "name": "Electrical Engineer",
       "degree": "undergraduate"
-      },
-      {
+    },
+    {
       "id": "4",
       "name": "Civil Engineer",
       "degree": "undergraduate"
-      },
-      {
+    },
+    {
       "id": "5",
       "name": "Industrial Engineer",
       "degree": "undergraduate"
-      },
-      {
+    },
+    {
       "id": "6",
       "name": "Chemical Engineer",
       "degree": "undergraduate"
-      },
-      {
+    },
+    {
       "id": "7",
       "name": "Environmental Engineer",
       "degree": "undergraduate"
-      },
-      {
+    },
+    {
       "id": "8",
       "name": "Mechanical Engineer",
       "degree": "undergraduate"
-      },
-      {
+    },
+    {
       "id": "9",
       "name": "Aerospace Engineer",
       "degree": "undergraduate"
-      },
-      {
+    },
+    {
       "id": "10",
       "name": "Biomedical Engineer",
       "degree": "undergraduate"
-      }
+    }
   ],
   "fees": [
     {
@@ -83,110 +83,109 @@
       "credit_cost": 1050,
       "period_id": 1,
       "program_id": 3
-      },
-      {
+    },
+    {
       "id": "4",
       "credit_cost": 1150,
       "period_id": 1,
       "program_id": 4
-      },
-      {
+    },
+    {
       "id": "5",
       "credit_cost": 1020,
       "period_id": 1,
       "program_id": 5
-      },
-      {
+    },
+    {
       "id": "6",
       "credit_cost": 1120,
       "period_id": 1,
       "program_id": 6
-      },
-      {
+    },
+    {
       "id": "7",
       "credit_cost": 1040,
       "period_id": 1,
       "program_id": 7
-      },
-      {
+    },
+    {
       "id": "8",
       "credit_cost": 1140,
       "period_id": 1,
       "program_id": 8
-      },
-      {
+    },
+    {
       "id": "9",
       "credit_cost": 1060,
       "period_id": 1,
       "program_id": 9
-      },
-      {
+    },
+    {
       "id": "10",
       "credit_cost": 1160,
       "period_id": 1,
       "program_id": 10
-      },
-      {
+    },
+    {
       "id": "11",
       "credit_cost": 1080,
       "period_id": 2,
       "program_id": 1
-      },
-      {
+    },
+    {
       "id": "12",
       "credit_cost": 1180,
       "period_id": 2,
       "program_id": 2
-      },
-      
-{
-  "id": "13",
-  "credit_cost": 1090,
-  "period_id": 2,
-  "program_id": 3
-  },
-  {
-  "id": "14",
-  "credit_cost": 1190,
-  "period_id": 2,
-  "program_id": 4
-  },
-  {
-  "id": "15",
-  "credit_cost": 1100,
-  "period_id": 2,
-  "program_id": 5
-  },
-  {
-  "id": "16",
-  "credit_cost": 1200,
-  "period_id": 2,
-  "program_id": 6
-  },
-  {
-  "id": "17",
-  "credit_cost": 1110,
-  "period_id": 2,
-  "program_id": 7
-  },
-  {
-  "id": "18",
-  "credit_cost": 1210,
-  "period_id": 2,
-  "program_id": 8
-  },
-  {
-  "id": "19",
-  "credit_cost": 1120,
-  "period_id": 2,
-  "program_id": 9
-  },
-  {
-  "id": "20",
-  "credit_cost": 1220,
-  "period_id": 2,
-  "program_id": 10
-  }
+    },
+    {
+      "id": "13",
+      "credit_cost": 1090,
+      "period_id": 2,
+      "program_id": 3
+    },
+    {
+      "id": "14",
+      "credit_cost": 1190,
+      "period_id": 2,
+      "program_id": 4
+    },
+    {
+      "id": "15",
+      "credit_cost": 1100,
+      "period_id": 2,
+      "program_id": 5
+    },
+    {
+      "id": "16",
+      "credit_cost": 1200,
+      "period_id": 2,
+      "program_id": 6
+    },
+    {
+      "id": "17",
+      "credit_cost": 1110,
+      "period_id": 2,
+      "program_id": 7
+    },
+    {
+      "id": "18",
+      "credit_cost": 1210,
+      "period_id": 2,
+      "program_id": 8
+    },
+    {
+      "id": "19",
+      "credit_cost": 1120,
+      "period_id": 2,
+      "program_id": 9
+    },
+    {
+      "id": "20",
+      "credit_cost": 1220,
+      "period_id": 2,
+      "program_id": 10
+    }
   ],
   "departments": [
     {
@@ -196,19 +195,19 @@
     {
       "id": "2",
       "name": "Deparment of Math"
-    },     
-  {
-  "id": "3",
-  "name": "Department of Physics"
-  },
-  {
-  "id": "4",
-  "name": "Department of Chemistry"
-  },
-  {
-  "id": "5",
-  "name": "Department of Biology"
-  }
+    },
+    {
+      "id": "3",
+      "name": "Department of Physics"
+    },
+    {
+      "id": "4",
+      "name": "Department of Chemistry"
+    },
+    {
+      "id": "5",
+      "name": "Department of Biology"
+    }
   ],
   "teachers": [
     {
@@ -493,7 +492,7 @@
       "program_id": 1
     },
     {
-      "id": 4,
+      "id": "4",
       "first_name": "os",
       "last_name": "ar",
       "document_type": "cc",
@@ -999,435 +998,435 @@
       "gender": "Male",
       "program_id": 10
     },
-{
-    "id": "43",
-    "first_name": "Camila",
-    "last_name": "Suárez",
-    "document_type": "CC",
-    "document_number": "963147852",
-    "residence_city": "Cali",
-    "direction": "Carrera 123",
-    "phone": "9631478520",
-    "birthdate": "1994-02-20",
-    "gender": "Female",
-    "program_id": 1
-},
-{
-    "id": "44",
-    "first_name": "Mateo",
-    "last_name": "Vásquez",
-    "document_type": "CC",
-    "document_number": "852963147",
-    "residence_city": "Medellín",
-    "direction": "Calle 456",
-    "phone": "8529631470",
-    "birthdate": "1993-09-25",
-    "gender": "Male",
-    "program_id": 2
-},
-{
-    "id": "45",
-    "first_name": "Isabella",
-    "last_name": "López",
-    "document_type": "CC",
-    "document_number": "369852147",
-    "residence_city": "Bucaramanga",
-    "direction": "Carrera 963",
-    "phone": "3698521470",
-    "birthdate": "1992-06-30",
-    "gender": "Female",
-    "program_id": 3
-},
-{
-    "id": "46",
-    "first_name": "Juan",
-    "last_name": "García",
-    "document_type": "CC",
-    "document_number": "258369147",
-    "residence_city": "Tunja",
-    "direction": "Avenida 741",
-    "phone": "2583691470",
-    "birthdate": "1991-03-15",
-    "gender": "Male",
-    "program_id": 4
-},
-{
-    "id": "47",
-    "first_name": "Valentina",
-    "last_name": "Martínez",
-    "document_type": "CC",
-    "document_number": "147852369",
-    "residence_city": "Cúcuta",
-    "direction": "Carrera 852",
-    "phone": "1478523690",
-    "birthdate": "1990-10-20",
-    "gender": "Female",
-    "program_id": 5
-},
-{
-    "id": "48",
-    "first_name": "Andrés",
-    "last_name": "Ramírez",
-    "document_type": "CC",
-    "document_number": "369741258",
-    "residence_city": "Villavicencio",
-    "direction": "Calle 147",
-    "phone": "3697412580",
-    "birthdate": "1989-07-25",
-    "gender": "Male",
-    "program_id": 6
-},
-{
-    "id": "49",
-    "first_name": "Carolina",
-    "last_name": "Gómez",
-    "document_type": "CC",
-    "document_number": "963258147",
-    "residence_city": "Santa Marta",
-    "direction": "Carrera 852",
-    "phone": "9632581470",
-    "birthdate": "1988-04-30",
-    "gender": "Female",
-    "program_id": 7
-},
-{
-    "id": "50",
-    "first_name": "Miguel",
-    "last_name": "López",
-    "document_type": "CC",
-    "document_number": "741963852",
-    "residence_city": "Cali",
-    "direction": "Avenida 963",
-    "phone": "7419638520",
-    "birthdate": "1987-01-15",
-    "gender": "Male",
-    "program_id": 8
-}
-],
-"courses": [
-  {
-    "id": "1",
-    "name": "Advanced programming",
-    "code": "AVA-PRO",
-    "lecture_guide": "URL_lecture_guide.pdf"
-  },
-  {
-    "id": "2",
-    "name": "Linear Algebra",
-    "code": "LI-ALG",
-    "lecture_guide": "URL_lecture_guide.pdf"
-  },
-  {
-    "id": "3",
-    "name": "Data Structures",
-    "code": "DAT-STR",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "4",
-    "name": "Object-Oriented Programming",
-    "code": "OOP",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "5",
-    "name": "Database Management Systems",
-    "code": "DBMS",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "6",
-    "name": "Software Engineering",
-    "code": "SOFT-ENG",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "7",
-    "name": "Computer Networks",
-    "code": "COMP-NET",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "8",
-    "name": "Algorithms",
-    "code": "ALG",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "9",
-    "name": "Web Development",
-    "code": "WEB-DEV",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "10",
-    "name": "Operating Systems",
-    "code": "OS",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "11",
-    "name": "Artificial Intelligence",
-    "code": "AI",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "12",
-    "name": "Computer Graphics",
-    "code": "COMP-GR",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "13",
-    "name": "Mobile Application Development",
-    "code": "MOB-APP",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "14",
-    "name": "Cybersecurity",
-    "code": "SEC",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "15",
-    "name": "Data Science",
-    "code": "DAT-SCI",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "16",
-    "name": "Cloud Computing",
-    "code": "CLOUD-COMP",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "17",
-    "name": "Human-Computer Interaction",
-    "code": "HCI",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "18",
-    "name": "Embedded Systems",
-    "code": "EMB-SYS",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "19",
-    "name": "Big Data",
-    "code": "BIG-DATA",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "20",
-    "name": "Machine Learning",
-    "code": "ML",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "21",
-    "name": "Computer Architecture",
-    "code": "COMP-ARCH",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "22",
-    "name": "Natural Language Processing",
-    "code": "NLP",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "23",
-    "name": "Computer Vision",
-    "code": "COMP-VIS",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "24",
-    "name": "Distributed Systems",
-    "code": "DIST-SYS",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "25",
-    "name": "Robotics",
-    "code": "ROBOTICS",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "26",
-    "name": "Blockchain Technology",
-    "code": "BLOCK-TECH",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "27",
-    "name": "Parallel Computing",
-    "code": "PARA-COMP",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "28",
-    "name": "Information Retrieval",
-    "code": "INFO-RET",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "29",
-    "name": "Virtual Reality",
-    "code": "VR",
-    "lecture_guide": "URL_lecture_guide.pdf"
-},
-{
-    "id": "30",
-    "name": "Compiler Design",
-    "code": "COMP-DES",
-    "lecture_guide": "URL_lecture_guide.pdf"
-}
-],
-"classrooms": [
-  {
-    "id": "1",
-    "students_capacity": 30,
-    "building": "building A",
-    "floor": 2,
-    "identification_number": "S001"
-  },
-  {
-    "id": "2",
-    "students_capacity": 25,
-    "building": "building B",
-    "floor": 1,
-    "identification_number": "S002"
-},
-{
-    "id": "3",
-    "students_capacity": 28,
-    "building": "building C",
-    "floor": 3,
-    "identification_number": "S003"
-},
-{
-    "id": "4",
-    "students_capacity": 35,
-    "building": "building D",
-    "floor": 4,
-    "identification_number": "S004"
-},
-{
-    "id": "5",
-    "students_capacity": 32,
-    "building": "building E",
-    "floor": 2,
-    "identification_number": "S005"
-},
-{
-    "id": "6",
-    "students_capacity": 27,
-    "building": "building F",
-    "floor": 1,
-    "identification_number": "S006"
-},
-{
-    "id": "7",
-    "students_capacity": 33,
-    "building": "building G",
-    "floor": 3,
-    "identification_number": "S007"
-},
-{
-    "id": "8",
-    "students_capacity": 29,
-    "building": "building H",
-    "floor": 4,
-    "identification_number": "S008"
-},
-{
-    "id": "9",
-    "students_capacity": 26,
-    "building": "building I",
-    "floor": 2,
-    "identification_number": "S009"
-},
-{
-    "id": "10",
-    "students_capacity": 31,
-    "building": "building J",
-    "floor": 1,
-    "identification_number": "S010"
-},
-{
-    "id": "11",
-    "students_capacity": 30,
-    "building": "building K",
-    "floor": 3,
-    "identification_number": "S011"
-},
-{
-    "id": "12",
-    "students_capacity": 25,
-    "building": "building L",
-    "floor": 4,
-    "identification_number": "S012"
-},
-{
-    "id": "13",
-    "students_capacity": 28,
-    "building": "building M",
-    "floor": 2,
-    "identification_number": "S013"
-},
-{
-    "id": "14",
-    "students_capacity": 35,
-    "building": "building N",
-    "floor": 1,
-    "identification_number": "S014"
-},
-{
-    "id": "15",
-    "students_capacity": 32,
-    "building": "building O",
-    "floor": 3,
-    "identification_number": "S015"
-},
-{
-    "id": "16",
-    "students_capacity": 27,
-    "building": "building P",
-    "floor": 2,
-    "identification_number": "S016"
-},
-{
-    "id": "17",
-    "students_capacity": 33,
-    "building": "building Q",
-    "floor": 1,
-    "identification_number": "S017"
-},
-{
-    "id": "18",
-    "students_capacity": 29,
-    "building": "building R",
-    "floor": 4,
-    "identification_number": "S018"
-},
-{
-    "id": "19",
-    "students_capacity": 26,
-    "building": "building S",
-    "floor": 2,
-    "identification_number": "S019"
-},
-{
-    "id": "20",
-    "students_capacity": 31,
-    "building": "building T",
-    "floor": 1,
-    "identification_number": "S020"
-}
-],
+    {
+      "id": "43",
+      "first_name": "Camila",
+      "last_name": "Suárez",
+      "document_type": "CC",
+      "document_number": "963147852",
+      "residence_city": "Cali",
+      "direction": "Carrera 123",
+      "phone": "9631478520",
+      "birthdate": "1994-02-20",
+      "gender": "Female",
+      "program_id": 1
+    },
+    {
+      "id": "44",
+      "first_name": "Mateo",
+      "last_name": "Vásquez",
+      "document_type": "CC",
+      "document_number": "852963147",
+      "residence_city": "Medellín",
+      "direction": "Calle 456",
+      "phone": "8529631470",
+      "birthdate": "1993-09-25",
+      "gender": "Male",
+      "program_id": 2
+    },
+    {
+      "id": "45",
+      "first_name": "Isabella",
+      "last_name": "López",
+      "document_type": "CC",
+      "document_number": "369852147",
+      "residence_city": "Bucaramanga",
+      "direction": "Carrera 963",
+      "phone": "3698521470",
+      "birthdate": "1992-06-30",
+      "gender": "Female",
+      "program_id": 3
+    },
+    {
+      "id": "46",
+      "first_name": "Juan",
+      "last_name": "García",
+      "document_type": "CC",
+      "document_number": "258369147",
+      "residence_city": "Tunja",
+      "direction": "Avenida 741",
+      "phone": "2583691470",
+      "birthdate": "1991-03-15",
+      "gender": "Male",
+      "program_id": 4
+    },
+    {
+      "id": "47",
+      "first_name": "Valentina",
+      "last_name": "Martínez",
+      "document_type": "CC",
+      "document_number": "147852369",
+      "residence_city": "Cúcuta",
+      "direction": "Carrera 852",
+      "phone": "1478523690",
+      "birthdate": "1990-10-20",
+      "gender": "Female",
+      "program_id": 5
+    },
+    {
+      "id": "48",
+      "first_name": "Andrés",
+      "last_name": "Ramírez",
+      "document_type": "CC",
+      "document_number": "369741258",
+      "residence_city": "Villavicencio",
+      "direction": "Calle 147",
+      "phone": "3697412580",
+      "birthdate": "1989-07-25",
+      "gender": "Male",
+      "program_id": 6
+    },
+    {
+      "id": "49",
+      "first_name": "Carolina",
+      "last_name": "Gómez",
+      "document_type": "CC",
+      "document_number": "963258147",
+      "residence_city": "Santa Marta",
+      "direction": "Carrera 852",
+      "phone": "9632581470",
+      "birthdate": "1988-04-30",
+      "gender": "Female",
+      "program_id": 7
+    },
+    {
+      "id": "50",
+      "first_name": "Miguel",
+      "last_name": "López",
+      "document_type": "CC",
+      "document_number": "741963852",
+      "residence_city": "Cali",
+      "direction": "Avenida 963",
+      "phone": "7419638520",
+      "birthdate": "1987-01-15",
+      "gender": "Male",
+      "program_id": 8
+    }
+  ],
+  "courses": [
+    {
+      "id": "1",
+      "name": "Advanced programming",
+      "code": "AVA-PRO",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "2",
+      "name": "Linear Algebra",
+      "code": "LI-ALG",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "3",
+      "name": "Data Structures",
+      "code": "DAT-STR",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "4",
+      "name": "Object-Oriented Programming",
+      "code": "OOP",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "5",
+      "name": "Database Management Systems",
+      "code": "DBMS",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "6",
+      "name": "Software Engineering",
+      "code": "SOFT-ENG",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "7",
+      "name": "Computer Networks",
+      "code": "COMP-NET",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "8",
+      "name": "Algorithms",
+      "code": "ALG",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "9",
+      "name": "Web Development",
+      "code": "WEB-DEV",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "10",
+      "name": "Operating Systems",
+      "code": "OS",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "11",
+      "name": "Artificial Intelligence",
+      "code": "AI",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "12",
+      "name": "Computer Graphics",
+      "code": "COMP-GR",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "13",
+      "name": "Mobile Application Development",
+      "code": "MOB-APP",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "14",
+      "name": "Cybersecurity",
+      "code": "SEC",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "15",
+      "name": "Data Science",
+      "code": "DAT-SCI",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "16",
+      "name": "Cloud Computing",
+      "code": "CLOUD-COMP",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "17",
+      "name": "Human-Computer Interaction",
+      "code": "HCI",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "18",
+      "name": "Embedded Systems",
+      "code": "EMB-SYS",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "19",
+      "name": "Big Data",
+      "code": "BIG-DATA",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "20",
+      "name": "Machine Learning",
+      "code": "ML",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "21",
+      "name": "Computer Architecture",
+      "code": "COMP-ARCH",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "22",
+      "name": "Natural Language Processing",
+      "code": "NLP",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "23",
+      "name": "Computer Vision",
+      "code": "COMP-VIS",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "24",
+      "name": "Distributed Systems",
+      "code": "DIST-SYS",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "25",
+      "name": "Robotics",
+      "code": "ROBOTICS",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "26",
+      "name": "Blockchain Technology",
+      "code": "BLOCK-TECH",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "27",
+      "name": "Parallel Computing",
+      "code": "PARA-COMP",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "28",
+      "name": "Information Retrieval",
+      "code": "INFO-RET",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "29",
+      "name": "Virtual Reality",
+      "code": "VR",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    },
+    {
+      "id": "30",
+      "name": "Compiler Design",
+      "code": "COMP-DES",
+      "lecture_guide": "URL_lecture_guide.pdf"
+    }
+  ],
+  "classrooms": [
+    {
+      "id": "1",
+      "students_capacity": 30,
+      "building": "building A",
+      "floor": 2,
+      "identification_number": "S001"
+    },
+    {
+      "id": "2",
+      "students_capacity": 25,
+      "building": "building B",
+      "floor": 1,
+      "identification_number": "S002"
+    },
+    {
+      "id": "3",
+      "students_capacity": 28,
+      "building": "building C",
+      "floor": 3,
+      "identification_number": "S003"
+    },
+    {
+      "id": "4",
+      "students_capacity": 35,
+      "building": "building D",
+      "floor": 4,
+      "identification_number": "S004"
+    },
+    {
+      "id": "5",
+      "students_capacity": 32,
+      "building": "building E",
+      "floor": 2,
+      "identification_number": "S005"
+    },
+    {
+      "id": "6",
+      "students_capacity": 27,
+      "building": "building F",
+      "floor": 1,
+      "identification_number": "S006"
+    },
+    {
+      "id": "7",
+      "students_capacity": 33,
+      "building": "building G",
+      "floor": 3,
+      "identification_number": "S007"
+    },
+    {
+      "id": "8",
+      "students_capacity": 29,
+      "building": "building H",
+      "floor": 4,
+      "identification_number": "S008"
+    },
+    {
+      "id": "9",
+      "students_capacity": 26,
+      "building": "building I",
+      "floor": 2,
+      "identification_number": "S009"
+    },
+    {
+      "id": "10",
+      "students_capacity": 31,
+      "building": "building J",
+      "floor": 1,
+      "identification_number": "S010"
+    },
+    {
+      "id": "11",
+      "students_capacity": 30,
+      "building": "building K",
+      "floor": 3,
+      "identification_number": "S011"
+    },
+    {
+      "id": "12",
+      "students_capacity": 25,
+      "building": "building L",
+      "floor": 4,
+      "identification_number": "S012"
+    },
+    {
+      "id": "13",
+      "students_capacity": 28,
+      "building": "building M",
+      "floor": 2,
+      "identification_number": "S013"
+    },
+    {
+      "id": "14",
+      "students_capacity": 35,
+      "building": "building N",
+      "floor": 1,
+      "identification_number": "S014"
+    },
+    {
+      "id": "15",
+      "students_capacity": 32,
+      "building": "building O",
+      "floor": 3,
+      "identification_number": "S015"
+    },
+    {
+      "id": "16",
+      "students_capacity": 27,
+      "building": "building P",
+      "floor": 2,
+      "identification_number": "S016"
+    },
+    {
+      "id": "17",
+      "students_capacity": 33,
+      "building": "building Q",
+      "floor": 1,
+      "identification_number": "S017"
+    },
+    {
+      "id": "18",
+      "students_capacity": 29,
+      "building": "building R",
+      "floor": 4,
+      "identification_number": "S018"
+    },
+    {
+      "id": "19",
+      "students_capacity": 26,
+      "building": "building S",
+      "floor": 2,
+      "identification_number": "S019"
+    },
+    {
+      "id": "20",
+      "students_capacity": 31,
+      "building": "building T",
+      "floor": 1,
+      "identification_number": "S020"
+    }
+  ],
   "subjects": [
     {
       "id": "1",
@@ -1476,19 +1475,1336 @@
       ]
     },
     {
-      "id": 3,
-      "course_id": "1",
-      "code": "1",
-      "credits": "4",
-      "teacher_id": "1",
-      "space_available": "20",
-      "program_id": "2",
+      "id": "3",
+      "course_id": 3,
+      "code": "COMP-ARCH-PER-2024",
+      "credits": 3,
+      "teacher_id": 3,
+      "space_available": 18,
+      "program_id": 3,
       "class_schedule": [
         {
           "day": "Tuesday",
-          "start_hour": "15:00",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 2
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "14:00",
           "end_hour": "16:00",
-          "classroom_id": "1"
+          "classroom_id": 2
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "course_id": 4,
+      "code": "NLP-PER-2024",
+      "credits": 4,
+      "teacher_id": 4,
+      "space_available": 16,
+      "program_id": 4,
+      "class_schedule": [
+        {
+          "day": "Wednesday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 3
+        },
+        {
+          "day": "Friday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 3
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "course_id": 5,
+      "code": "COMP-VIS-PER-2024",
+      "credits": 3,
+      "teacher_id": 5,
+      "space_available": 17,
+      "program_id": 5,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 4
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 4
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "course_id": 6,
+      "code": "DIST-SYS-PER-2024",
+      "credits": 4,
+      "teacher_id": 6,
+      "space_available": 19,
+      "program_id": 6,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 5
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 5
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "course_id": 7,
+      "code": "ROBOTICS-PER-2024",
+      "credits": 3,
+      "teacher_id": 7,
+      "space_available": 20,
+      "program_id": 7,
+      "class_schedule": [
+        {
+          "day": "Wednesday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 6
+        },
+        {
+          "day": "Friday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 6
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "course_id": 8,
+      "code": "BLOCK-TECH-PER-2024",
+      "credits": 4,
+      "teacher_id": 8,
+      "space_available": 18,
+      "program_id": 8,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "18:00",
+          "end_hour": "20:00",
+          "classroom_id": 7
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "18:00",
+          "end_hour": "20:00",
+          "classroom_id": 7
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "course_id": 9,
+      "code": "PARA-COMP-PER-2024",
+      "credits": 3,
+      "teacher_id": 9,
+      "space_available": 19,
+      "program_id": 9,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 8
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 8
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "course_id": 10,
+      "code": "INFO-RET-PER-2024",
+      "credits": 4,
+      "teacher_id": 10,
+      "space_available": 20,
+      "program_id": 10,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 9
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 9
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "course_id": 11,
+      "code": "VR-PER-2024",
+      "credits": 3,
+      "teacher_id": 11,
+      "space_available": 17,
+      "program_id": 1,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 10
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 10
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "course_id": 12,
+      "code": "MACHINE-LEARNING-PER-2024",
+      "credits": 4,
+      "teacher_id": 12,
+      "space_available": 18,
+      "program_id": 2,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 11
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 11
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "course_id": 13,
+      "code": "DATA-STRUCTURES-PER-2024",
+      "credits": 3,
+      "teacher_id": 13,
+      "space_available": 19,
+      "program_id": 3,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 12
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 12
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "course_id": 14,
+      "code": "DATABASE-DESIGN-PER-2024",
+      "credits": 4,
+      "teacher_id": 14,
+      "space_available": 20,
+      "program_id": 4,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 13
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 13
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "course_id": 15,
+      "code": "NETWORK-SECURITY-PER-2024",
+      "credits": 3,
+      "teacher_id": 15,
+      "space_available": 17,
+      "program_id": 5,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 14
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 14
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "course_id": 16,
+      "code": "CLOUD-COMPUTING-PER-2024",
+      "credits": 4,
+      "teacher_id": 16,
+      "space_available": 18,
+      "program_id": 6,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 15
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 15
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "course_id": 17,
+      "code": "WEB-DEVELOPMENT-PER-2024",
+      "credits": 3,
+      "teacher_id": 17,
+      "space_available": 19,
+      "program_id": 7,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 16
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 16
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "course_id": 18,
+      "code": "MOBILE-APP-DEV-PER-2024",
+      "credits": 4,
+      "teacher_id": 18,
+      "space_available": 20,
+      "program_id": 8,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 17
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 17
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "course_id": 19,
+      "code": "DATA-MINING-PER-2024",
+      "credits": 3,
+      "teacher_id": 19,
+      "space_available": 17,
+      "program_id": 9,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 18
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 18
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "course_id": 20,
+      "code": "SOFTWARE-ENGINEERING-PER-2024",
+      "credits": 4,
+      "teacher_id": 20,
+      "space_available": 18,
+      "program_id": 10,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 19
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 19
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "course_id": 21,
+      "code": "ARTIFICIAL-INTELLIGENCE-PER-2024",
+      "credits": 3,
+      "teacher_id": 21,
+      "space_available": 19,
+      "program_id": 1,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 20
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 20
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "course_id": 22,
+      "code": "HUMAN-COMPUTER-INTERACTION-PER-2024",
+      "credits": 4,
+      "teacher_id": 22,
+      "space_available": 20,
+      "program_id": 2,
+      "class_schedule": [
+        {
+          "day": "Wednesday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 21
+        },
+        {
+          "day": "Friday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 21
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "course_id": 23,
+      "code": "OPERATING-SYSTEMS-PER-2024",
+      "credits": 3,
+      "teacher_id": 23,
+      "space_available": 18,
+      "program_id": 3,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 22
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 22
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "course_id": 24,
+      "code": "SOFTWARE-TESTING-PER-2024",
+      "credits": 4,
+      "teacher_id": 24,
+      "space_available": 19,
+      "program_id": 4,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 23
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 23
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "course_id": 25,
+      "code": "CRYPTOGRAPHY-PER-2024",
+      "credits": 3,
+      "teacher_id": 25,
+      "space_available": 20,
+      "program_id": 5,
+      "class_schedule": [
+        {
+          "day": "Wednesday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 24
+        },
+        {
+          "day": "Friday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 24
+        }
+      ]
+    },
+    {
+      "id": "26",
+      "course_id": 26,
+      "code": "EMBEDDED-SYSTEMS-PER-2024",
+      "credits": 4,
+      "teacher_id": 26,
+      "space_available": 18,
+      "program_id": 6,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 25
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 25
+        }
+      ]
+    },
+    {
+      "id": "27",
+      "course_id": 27,
+      "code": "BIG-DATA-PER-2024",
+      "credits": 3,
+      "teacher_id": 27,
+      "space_available": 19,
+      "program_id": 7,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 26
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 26
+        }
+      ]
+    },
+    {
+      "id": "28",
+      "course_id": 28,
+      "code": "SOFTWARE-ARCHITECTURE-PER-2024",
+      "credits": 4,
+      "teacher_id": 28,
+      "space_available": 20,
+      "program_id": 8,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 27
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 27
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "course_id": 29,
+      "code": "COMPUTER-NETWORKS-PER-2024",
+      "credits": 3,
+      "teacher_id": 29,
+      "space_available": 18,
+      "program_id": 9,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 28
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 28
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "course_id": 30,
+      "code": "INFORMATION-SECURITY-PER-2024",
+      "credits": 4,
+      "teacher_id": 30,
+      "space_available": 19,
+      "program_id": 10,
+      "class_schedule": [
+        {
+          "day": "Wednesday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 29
+        },
+        {
+          "day": "Friday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 29
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "course_id": 1,
+      "code": "AVA-PRO-PER-2023",
+      "credits": 4,
+      "teacher_id": 1,
+      "space_available": 20,
+      "program_id": 1,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 1
+        },
+        {
+          "day": "TUESDAY",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 1
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "course_id": 2,
+      "code": "LI-ALG-PER-2023",
+      "credits": 3,
+      "teacher_id": 2,
+      "space_available": 15,
+      "program_id": 2,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 1
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 1
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "course_id": 3,
+      "code": "COMP-ARCH-PER-2023",
+      "credits": 3,
+      "teacher_id": 3,
+      "space_available": 18,
+      "program_id": 3,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 2
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 2
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "course_id": 4,
+      "code": "NLP-PER-2023",
+      "credits": 4,
+      "teacher_id": 4,
+      "space_available": 16,
+      "program_id": 4,
+      "class_schedule": [
+        {
+          "day": "Wednesday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 3
+        },
+        {
+          "day": "Friday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 3
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "course_id": 5,
+      "code": "COMP-VIS-PER-2023",
+      "credits": 3,
+      "teacher_id": 5,
+      "space_available": 17,
+      "program_id": 5,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 4
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 4
+        }
+      ]
+    },
+    {
+      "id": "36",
+      "course_id": 6,
+      "code": "DIST-SYS-PER-2023",
+      "credits": 4,
+      "teacher_id": 6,
+      "space_available": 19,
+      "program_id": 6,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 5
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 5
+        }
+      ]
+    },
+    {
+      "id": "37",
+      "course_id": 7,
+      "code": "ROBOTICS-PER-2023",
+      "credits": 3,
+      "teacher_id": 7,
+      "space_available": 20,
+      "program_id": 7,
+      "class_schedule": [
+        {
+          "day": "Wednesday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 6
+        },
+        {
+          "day": "Friday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 6
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "course_id": 8,
+      "code": "BLOCK-TECH-PER-2023",
+      "credits": 4,
+      "teacher_id": 8,
+      "space_available": 18,
+      "program_id": 8,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "18:00",
+          "end_hour": "20:00",
+          "classroom_id": 7
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "18:00",
+          "end_hour": "20:00",
+          "classroom_id": 7
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "course_id": 9,
+      "code": "PARA-COMP-PER-2023",
+      "credits": 3,
+      "teacher_id": 9,
+      "space_available": 19,
+      "program_id": 9,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 8
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 8
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "course_id": 10,
+      "code": "INFO-RET-PER-2023",
+      "credits": 4,
+      "teacher_id": 10,
+      "space_available": 20,
+      "program_id": 10,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 9
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 9
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "course_id": 11,
+      "code": "VR-PER-2023",
+      "credits": 3,
+      "teacher_id": 11,
+      "space_available": 17,
+      "program_id": 1,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 10
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 10
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "course_id": 12,
+      "code": "MACHINE-LEARNING-PER-2023",
+      "credits": 4,
+      "teacher_id": 12,
+      "space_available": 18,
+      "program_id": 2,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 11
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 11
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "course_id": 13,
+      "code": "DATA-STRUCTURES-PER-2023",
+      "credits": 3,
+      "teacher_id": 13,
+      "space_available": 19,
+      "program_id": 3,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 12
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 12
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "course_id": 14,
+      "code": "DATABASE-DESIGN-PER-2023",
+      "credits": 4,
+      "teacher_id": 14,
+      "space_available": 20,
+      "program_id": 4,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 13
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 13
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "course_id": 15,
+      "code": "NETWORK-SECURITY-PER-2023",
+      "credits": 3,
+      "teacher_id": 15,
+      "space_available": 17,
+      "program_id": 5,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 14
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 14
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "course_id": 16,
+      "code": "CLOUD-COMPUTING-PER-2023",
+      "credits": 4,
+      "teacher_id": 16,
+      "space_available": 18,
+      "program_id": 6,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 15
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 15
+        }
+      ]
+    },
+    {
+      "id": "47",
+      "course_id": 17,
+      "code": "WEB-DEVELOPMENT-PER-2023",
+      "credits": 3,
+      "teacher_id": 17,
+      "space_available": 19,
+      "program_id": 7,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 16
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 16
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "course_id": 18,
+      "code": "MOBILE-APP-DEV-PER-2023",
+      "credits": 4,
+      "teacher_id": 18,
+      "space_available": 20,
+      "program_id": 8,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 17
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 17
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "course_id": 19,
+      "code": "DATA-MINING-PER-2023",
+      "credits": 3,
+      "teacher_id": 19,
+      "space_available": 17,
+      "program_id": 9,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 18
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 18
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "course_id": 20,
+      "code": "SOFTWARE-ENGINEERING-PER-2023",
+      "credits": 4,
+      "teacher_id": 20,
+      "space_available": 18,
+      "program_id": 10,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 19
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 19
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "course_id": 21,
+      "code": "ARTIFICIAL-INTELLIGENCE-PER-2023",
+      "credits": 3,
+      "teacher_id": 21,
+      "space_available": 19,
+      "program_id": 1,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 20
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 20
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "course_id": 22,
+      "code": "HUMAN-COMPUTER-INTERACTION-PER-2023",
+      "credits": 4,
+      "teacher_id": 22,
+      "space_available": 20,
+      "program_id": 2,
+      "class_schedule": [
+        {
+          "day": "Wednesday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 21
+        },
+        {
+          "day": "Friday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 21
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "course_id": 23,
+      "code": "OPERATING-SYSTEMS-PER-2023",
+      "credits": 3,
+      "teacher_id": 23,
+      "space_available": 18,
+      "program_id": 3,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 22
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 22
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "course_id": 24,
+      "code": "SOFTWARE-TESTING-PER-2023",
+      "credits": 4,
+      "teacher_id": 24,
+      "space_available": 19,
+      "program_id": 4,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 23
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 23
+        }
+      ]
+    },
+    {
+      "id": "55",
+      "course_id": 25,
+      "code": "CRYPTOGRAPHY-PER-2023",
+      "credits": 3,
+      "teacher_id": 25,
+      "space_available": 20,
+      "program_id": 5,
+      "class_schedule": [
+        {
+          "day": "Wednesday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 24
+        },
+        {
+          "day": "Friday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 24
+        }
+      ]
+    },
+    {
+      "id": "56",
+      "course_id": 26,
+      "code": "EMBEDDED-SYSTEMS-PER-2023",
+      "credits": 4,
+      "teacher_id": 26,
+      "space_available": 18,
+      "program_id": 6,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 25
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 25
+        }
+      ]
+    },
+    {
+      "id": "57",
+      "course_id": 27,
+      "code": "BIG-DATA-PER-2023",
+      "credits": 3,
+      "teacher_id": 27,
+      "space_available": 19,
+      "program_id": 7,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 26
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "08:00",
+          "end_hour": "10:00",
+          "classroom_id": 26
+        }
+      ]
+    },
+    {
+      "id": "58",
+      "course_id": 28,
+      "code": "SOFTWARE-ARCHITECTURE-PER-2023",
+      "credits": 4,
+      "teacher_id": 28,
+      "space_available": 20,
+      "program_id": 8,
+      "class_schedule": [
+        {
+          "day": "Monday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 27
+        },
+        {
+          "day": "Wednesday",
+          "start_hour": "14:00",
+          "end_hour": "16:00",
+          "classroom_id": 27
+        }
+      ]
+    },
+    {
+      "id": "59",
+      "course_id": 29,
+      "code": "COMPUTER-NETWORKS-PER-2023",
+      "credits": 3,
+      "teacher_id": 29,
+      "space_available": 18,
+      "program_id": 9,
+      "class_schedule": [
+        {
+          "day": "Tuesday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 28
+        },
+        {
+          "day": "Thursday",
+          "start_hour": "16:00",
+          "end_hour": "18:00",
+          "classroom_id": 28
+        }
+      ]
+    },
+    {
+      "id": "60",
+      "course_id": 30,
+      "code": "INFORMATION-SECURITY-PER-2023",
+      "credits": 4,
+      "teacher_id": 30,
+      "space_available": 19,
+      "program_id": 10,
+      "class_schedule": [
+        {
+          "day": "Wednesday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 29
+        },
+        {
+          "day": "Friday",
+          "start_hour": "10:00",
+          "end_hour": "12:00",
+          "classroom_id": 29
         }
       ]
     }
@@ -1507,6 +2823,342 @@
       "subject_id": 2,
       "period_id": 1,
       "price": 3300
+    },
+    {
+      "id": "3",
+      "student_id": 1,
+      "subject_id": 3,
+      "period_id": 1,
+      "price": 5200
+    },
+    {
+      "id": "4",
+      "student_id": 1,
+      "subject_id": 4,
+      "period_id": 1,
+      "price": 6700
+    },
+    {
+      "id": "5",
+      "student_id": 1,
+      "subject_id": 5,
+      "period_id": 1,
+      "price": 1800
+    },
+    {
+      "id": "6",
+      "student_id": 1,
+      "subject_id": 6,
+      "period_id": 1,
+      "price": 8900
+    },
+    {
+      "id": "7",
+      "student_id": 1,
+      "subject_id": 7,
+      "period_id": 1,
+      "price": 4500
+    },
+    {
+      "id": "8",
+      "student_id": 1,
+      "subject_id": 8,
+      "period_id": 1,
+      "price": 7200
+    },
+    {
+      "id": "9",
+      "student_id": 1,
+      "subject_id": 9,
+      "period_id": 1,
+      "price": 2800
+    },
+    {
+      "id": "10",
+      "student_id": 1,
+      "subject_id": 10,
+      "period_id": 1,
+      "price": 6100
+    },
+    {
+      "id": "11",
+      "student_id": 2,
+      "subject_id": 11,
+      "period_id": 1,
+      "price": 9400
+    },
+    {
+      "id": "12",
+      "student_id": 2,
+      "subject_id": 12,
+      "period_id": 1,
+      "price": 1200
+    },
+    {
+      "id": "13",
+      "student_id": 2,
+      "subject_id": 13,
+      "period_id": 1,
+      "price": 5700
+    },
+    {
+      "id": "14",
+      "student_id": 2,
+      "subject_id": 14,
+      "period_id": 1,
+      "price": 8100
+    },
+    {
+      "id": "15",
+      "student_id": 2,
+      "subject_id": 15,
+      "period_id": 1,
+      "price": 3600
+    },
+    {
+      "id": "16",
+      "student_id": 2,
+      "subject_id": 16,
+      "period_id": 1,
+      "price": 2400
+    },
+    {
+      "id": "17",
+      "student_id": 2,
+      "subject_id": 17,
+      "period_id": 1,
+      "price": 4900
+    },
+    {
+      "id": "18",
+      "student_id": 1,
+      "subject_id": 18,
+      "period_id": 1,
+      "price": 6900
+    },
+    {
+      "id": "19",
+      "student_id": 1,
+      "subject_id": 19,
+      "period_id": 1,
+      "price": 5500
+    },
+    {
+      "id": "20",
+      "student_id": 1,
+      "subject_id": 20,
+      "period_id": 1,
+      "price": 1300
+    },
+    {
+      "id": "21",
+      "student_id": 3,
+      "subject_id": 21,
+      "period_id": 1,
+      "price": 1800
+    },
+    {
+      "id": "22",
+      "student_id": 3,
+      "subject_id": 22,
+      "period_id": 1,
+      "price": 8600
+    },
+    {
+      "id": "23",
+      "student_id": 3,
+      "subject_id": 23,
+      "period_id": 1,
+      "price": 4200
+    },
+    {
+      "id": "24",
+      "student_id": 3,
+      "subject_id": 24,
+      "period_id": 1,
+      "price": 6700
+    },
+    {
+      "id": "25",
+      "student_id": 3,
+      "subject_id": 25,
+      "period_id": 1,
+      "price": 3200
+    },
+    {
+      "id": "26",
+      "student_id": 3,
+      "subject_id": 26,
+      "period_id": 2,
+      "price": 9800
+    },
+    {
+      "id": "27",
+      "student_id": 3,
+      "subject_id": 27,
+      "period_id": 2,
+      "price": 7500
+    },
+    {
+      "id": "28",
+      "student_id": 3,
+      "subject_id": 28,
+      "period_id": 2,
+      "price": 5200
+    },
+    {
+      "id": "29",
+      "student_id": 3,
+      "subject_id": 29,
+      "period_id": 2,
+      "price": 2900
+    },
+    {
+      "id": "30",
+      "student_id": 3,
+      "subject_id": 30,
+      "period_id": 2,
+      "price": 4800
+    },
+    {
+      "id": "31",
+      "student_id": 1,
+      "subject_id": 1,
+      "period_id": 2,
+      "price": 6500
+    },
+    {
+      "id": "32",
+      "student_id": 1,
+      "subject_id": 2,
+      "period_id": 2,
+      "price": 2200
+    },
+    {
+      "id": "33",
+      "student_id": 4,
+      "subject_id": 3,
+      "period_id": 2,
+      "price": 8900
+    },
+    {
+      "id": "34",
+      "student_id": 4,
+      "subject_id": 4,
+      "period_id": 2,
+      "price": 3400
+    },
+    {
+      "id": "35",
+      "student_id": 4,
+      "subject_id": 5,
+      "period_id": 2,
+      "price": 5700
+    },
+    {
+      "id": "36",
+      "student_id": 4,
+      "subject_id": 6,
+      "period_id": 2,
+      "price": 1200
+    },
+    {
+      "id": "37",
+      "student_id": 4,
+      "subject_id": 7,
+      "period_id": 2,
+      "price": 1900
+    },
+    {
+      "id": "38",
+      "student_id": 4,
+      "subject_id": 8,
+      "period_id": 2,
+      "price": 8800
+    },
+    {
+      "id": "39",
+      "student_id": 4,
+      "subject_id": 9,
+      "period_id": 2,
+      "price": 4300
+    },
+    {
+      "id": "40",
+      "student_id": 4,
+      "subject_id": 10,
+      "period_id": 2,
+      "price": 6800
+    },
+    {
+      "id": "41",
+      "student_id": 5,
+      "subject_id": 11,
+      "period_id": 2,
+      "price": 9500
+    },
+    {
+      "id": "42",
+      "student_id": 5,
+      "subject_id": 12,
+      "period_id": 2,
+      "price": 2000
+    },
+    {
+      "id": "43",
+      "student_id": 5,
+      "subject_id": 13,
+      "period_id": 2,
+      "price": 7500
+    },
+    {
+      "id": "44",
+      "student_id": 5,
+      "subject_id": 14,
+      "period_id": 2,
+      "price": 9900
+    },
+    {
+      "id": "45",
+      "student_id": 5,
+      "subject_id": 15,
+      "period_id": 2,
+      "price": 5400
+    },
+    {
+      "id": "46",
+      "student_id": 5,
+      "subject_id": 16,
+      "period_id": 2,
+      "price": 6700
+    },
+    {
+      "id": "47",
+      "student_id": 5,
+      "subject_id": 17,
+      "period_id": 2,
+      "price": 9100
+    },
+    {
+      "id": "48",
+      "student_id": 5,
+      "subject_id": 18,
+      "period_id": 2,
+      "price": 7100
+    },
+    {
+      "id": "49",
+      "student_id": 5,
+      "subject_id": 19,
+      "period_id": 2,
+      "price": 6700
+    },
+    {
+      "id": "50",
+      "student_id": 5,
+      "subject_id": 20,
+      "period_id": 2,
+      "price": 1300
     }
   ]
 }

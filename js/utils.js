@@ -85,7 +85,7 @@ async function createPersonForm(dataDic,name){
                 formHTMl += `<option value="${classroom["id"]}">${classroom["id"]}</option> `
             }
             formHTMl += `</select>`
-        }else if(key !=="id"){
+        }else if(key !=="id" && key !== "price"){
             formHTMl += `
             <div class="form-group">
                 <label for="${name}-${key}-input">${key.replaceAll("_"," ")}</label> 

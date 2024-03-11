@@ -1,3 +1,11 @@
+
+body{
+    background: url(https://i.gifer.com/4UdB.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
 #logo{
     text-align: center;
 }

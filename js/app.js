@@ -20,7 +20,7 @@ document.getElementById("new-subjects").addEventListener("click",newSubjectForm)
 document.getElementById("show-subjects").addEventListener("click",showSubjects);
 
 document.getElementById("nav-tuitions").addEventListener("click",tuitionOptions);
-// document.getElementById("new-tuitions").addEventListener("click",newTuitionForm);
+document.getElementById("new-tuitions").addEventListener("click",newTuitionForm);
 document.getElementById("show-tuitions").addEventListener("click",showTuitions);
 
 
