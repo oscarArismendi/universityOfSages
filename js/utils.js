@@ -125,7 +125,7 @@ function createCard(dataDic) {
             }
 
             cardHTML += `</ul></li>`;
-        } else {
+        } else if(key !=="id") {
             cardHTML += `<li class="list-group-item">${key.replaceAll("_", " ")}: ${dataDic[key]}</li>`;
         }
     }
@@ -143,9 +143,12 @@ function hiddeSecondaryMenus(){
     const teacherMenu = document.getElementById("teacher-menu");
     const studentMenu = document.getElementById("student-menu");
     const subjectMenu = document.getElementById("subject-menu");
+    const tuitionMenu = document.getElementById("tuition-menu");
+    
     teacherMenu.style.display = "none";
     studentMenu.style.display = "none";
     subjectMenu.style.display = "none";
+    tuitionMenu.style.display = "none";
 }
 
 function initialState(){

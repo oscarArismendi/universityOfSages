@@ -32,7 +32,7 @@ ul,li{
     min-height: 90%;
 }
 
-#teacher-menu, #student-menu, #subject-menu{
+#teacher-menu, #student-menu, #subject-menu, #tuition-menu{
     display: none;
 }
 
